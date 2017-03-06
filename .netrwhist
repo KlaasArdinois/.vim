@@ -1,6 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/klaasardinois/.config'
-let g:netrw_dirhist_2='/Users/klaasardinois/.config/Last.fm'
-let g:netrw_dirhist_3='/Users/klaasardinois/.vim'
-let g:netrw_dirhist_4='/Users/klaasardinois/Code/Starbucks/data'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/klaasardinois/code/Azoomee/web-user-app/app/bower_components'
+let g:netrw_dirhist_2='/Users/klaasardinois/code/Azoomee/web-user-app/app/bower_components/azoomee.web-components-jwt'
+let g:netrw_dirhist_3='/Users/klaasardinois/.aws'
+let g:netrw_dirhist_4='/Users/klaasardinois/code/Azoomee/game-memory/assets/js'
+let g:netrw_dirhist_5='/Users/klaasardinois/code/Azoomee/statsProcess/messages'
+let g:netrw_dirhist_6='/Users/klaasardinois/Dropbox/TZ/Tinizine - Personal Klaas'
+let g:netrw_dirhist_7='/Users/klaasardinois/.vim'
